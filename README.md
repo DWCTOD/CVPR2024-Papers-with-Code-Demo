@@ -1,8 +1,6 @@
 # CVPR2023-Papers-with-Code-Demo
 
- :star_and_crescent:**CVPR2021论文下载：https://pan.baidu.com/share/init?surl=gjfUQlPf73MCk4vM8VbzoA**
 
-**密码：aicv**
 
  :star_and_crescent:**CVPR2022论文下载：添加微信: nvshenj125, 备注 CVPR 2022 即可获取全部论文pdf**
 
@@ -69,6 +67,7 @@ CVPR 2023 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [人脸表情识别/Facial Expression Recognition](#FacialExpressionRecognition)
 - [人脸属性识别/Facial Attribute Recognition](#FacialAttributeRecognition)
 - [人脸编辑/Facial Editing](#FacialEditing)
+- [人脸重建/Face Reconstruction](#FaceReconstruction)
 - [换脸/Face Swap](#FaceSwap)
 - [人体姿态估计/Human Pose Estimation](#HumanPoseEstimation)
 - [6D位姿估计 /6D Pose Estimation](#6DPoseEstimation)
@@ -209,7 +208,15 @@ CVPR 2023 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## 语义分割/Segmentation
 
+**Interactive Segmentation as Gaussian Process Classification**
 
+- 论文/Paper: http://arxiv.org/pdf/2302.14578
+- 代码/Code: None
+
+**Foundation Model Drives Weakly Incremental Learning for Semantic Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2302.14250
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -251,7 +258,15 @@ CVPR 2023 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 # Visual Transformer
 
+**Mask3D: Pre-training 2D Vision Transformers by Learning Masked 3D Priors**
 
+- 论文/Paper: http://arxiv.org/pdf/2302.14746
+- 代码/Code: None
+
+**ProxyFormer: Proxy Alignment Assisted Point Cloud Completion with Missing Part Sensitive Transformer**
+
+- 论文/Paper: http://arxiv.org/pdf/2302.14435
+- 代码/Code: https://github.com/I2-Multimedia-Lab/ProxyFormer.
 
 [返回目录/back](#Contents)
 
@@ -287,6 +302,17 @@ CVPR 2023 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="FaceReconstruction"></a>
+
+## 人脸重建/Face Reconstruction
+
+**ProxyFormer: Proxy Alignment Assisted Point Cloud Completion with Missing Part Sensitive Transformer**
+
+- 论文/Paper: http://arxiv.org/pdf/2302.14435
+- 代码/Code: https://github.com/I2-Multimedia-Lab/ProxyFormer.
+
+[返回目录/back](#Contents)
+
 <a name="AgeEstimation"></a>
 
 # 人脸年龄估计/Age Estimation
@@ -303,9 +329,62 @@ CVPR 2023 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="HandPoseEstimation"></a>
 
+## 手势姿态估计（重建）/Hand Pose Estimation( Hand Mesh Recovery)
+
+**Im2Hands: Learning Attentive Implicit Representation of Interacting Two-Hand Shapes**
+
+- 论文/Paper: http://arxiv.org/pdf/2302.14348
+- 代码/Code: https://github.com/jyunlee/Im2Hands
+
+[返回目录/back](#Contents)
 
 <a name="Other"></a>
 
 ## 其他/Other
 
+**PA&DA: Jointly Sampling PAth and DAta for Consistent NAS**
+
+- 论文/Paper: http://arxiv.org/pdf/2302.14772
+- 代码/Code: https://github.com/ShunLu91/PA-DA
+
+**Generic-to-Specific Distillation of Masked Autoencoders**
+
+- 论文/Paper: http://arxiv.org/pdf/2302.14771
+- 代码/Code: https://github.com/pengzhiliang/G2SD.
+
+**Backdoor Attacks Against Deep Image Compression via Adaptive Frequency Trigger**
+
+- 论文/Paper: http://arxiv.org/pdf/2302.14677
+- 代码/Code: None
+
+**Turning a CLIP Model into a Scene Text Detector**
+
+- 论文/Paper: http://arxiv.org/pdf/2302.14338
+- 代码/Code: None
+
+**Adversarial Attack with Raindrops**
+
+- 论文/Paper: http://arxiv.org/pdf/2302.14267
+- 代码/Code: None
+
+**Vid2Seq: Large-Scale Pretraining of a Visual Language Model for Dense Video Captioning**
+
+- 论文/Paper: http://arxiv.org/pdf/2302.14115
+- 代码/Code: None
+
+**DART: Diversify-Aggregate-Repeat Training Improves Generalization of Neural Networks**
+
+- 论文/Paper: http://arxiv.org/pdf/2302.14685
+- 代码/Code: None
+
+**Neural Video Compression with Diverse Contexts**
+
+- 论文/Paper: http://arxiv.org/pdf/2302.14402
+- 代码/Code: https://github.com/microsoft/DCVC
+
+**Learning to Retain while Acquiring: Combating Distribution-Shift in Adversarial Data-Free Knowledge Distillation**
+
+- 论文/Paper: http://arxiv.org/pdf/2302.14290
+- 代码/Code: None
