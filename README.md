@@ -138,7 +138,10 @@ CVPR 2023 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## Knowledge Distillation
 
+**Paper title: Generic-to-Specific Distillation of Masked Autoencoders**
 
+- 论文/Paper: https://arxiv.org/abs/2302.14771
+- 代码/Code: https://github.com/pengzhiliang/G2SD
 
 [返回目录/back](#Contents)
 
@@ -146,7 +149,10 @@ CVPR 2023 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## 多模态 / Multimodal
 
+**PolyFormer: Referring Image Segmentation as Sequential Polygon Generation**
 
+- 论文/Paper: https://arxiv.org/abs/2302.14771
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -216,6 +222,11 @@ CVPR 2023 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Foundation Model Drives Weakly Incremental Learning for Semantic Segmentation**
 
 - 论文/Paper: http://arxiv.org/pdf/2302.14250
+- 代码/Code: None
+
+**PolyFormer: Referring Image Segmentation as Sequential Polygon Generation**
+
+- 论文/Paper: https://arxiv.org/abs/2302.14771
 - 代码/Code: None
 
 [返回目录/back](#Contents)
