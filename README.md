@@ -102,7 +102,7 @@ CVPR 2023 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [场景重建 / Scene Reconstruction](#SceneReconstruction)
 - [视频插帧/Frame Interpolation](#FrameInterpolation)
 - [视频超分 / Video Super-Resolution](#VideoSuper-Resolution)
-- [ 3D点云/3D point cloud]( #3DPointCloud)
+- [ 3D点云/3D point cloud](#3DPointCloud)
 - [标签噪声 / Label-Noise](#Label-Noise)
 - [对抗样本/Adversarial Examples](#AdversarialExamples)
 - [其他/Other](#Other)
@@ -153,6 +153,16 @@ CVPR 2023 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: https://arxiv.org/abs/2302.14771
 - 代码/Code: None
+
+**Multimodal Industrial Anomaly Detection via Hybrid Fusion**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.00601
+- 代码/Code: https://github.com/nomewang/m3dm
+
+**Hidden Gems: 4D Radar Scene Flow Learning Using Cross-Modal Supervision**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.00462
+- 代码/Code: https://github.com/toytiny/cmflow
 
 [返回目录/back](#Contents)
 
@@ -206,7 +216,10 @@ CVPR 2023 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## 轨迹预测/Trajectory Prediction
 
+**IPCC-TP: Utilizing Incremental Pearson Correlation Coefficient for Joint Multi-Agent Trajectory Prediction**
 
+- 论文/Paper: http://arxiv.org/pdf/2303.00575
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -227,6 +240,11 @@ CVPR 2023 论文/paper交流群已成立！已经收录的同学，可以添加�
 **PolyFormer: Referring Image Segmentation as Sequential Polygon Generation**
 
 - 论文/Paper: https://arxiv.org/abs/2302.14771
+- 代码/Code: None
+
+**ISBNet: a 3D Point Cloud Instance Segmentation Network with Instance-aware Sampling and Box-aware Dynamic Convolution**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.00246
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -351,6 +369,32 @@ CVPR 2023 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="FrameInterpolation"></a>
+
+## 视频插帧/Frame Interpolation
+
+**Extracting Motion and Appearance via Inter-Frame Attention for Efficient Video Frame Interpolation**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.00440
+- 代码/Code: https://github.com/MCG-NJU/EMA-VFI
+
+[返回目录/back](#Contents)
+
+<a name="3DPointCloud"></a>
+
+## 3D点云/3D point cloud
+
+**ISBNet: a 3D Point Cloud Instance Segmentation Network with Instance-aware Sampling and Box-aware Dynamic Convolution**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.00246
+- 代码/Code: None
+
+[返回目录/back](#Contents)
+
+## 
+
+
+
 <a name="Other"></a>
 
 ## 其他/Other
@@ -398,4 +442,29 @@ CVPR 2023 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Learning to Retain while Acquiring: Combating Distribution-Shift in Adversarial Data-Free Knowledge Distillation**
 
 - 论文/Paper: http://arxiv.org/pdf/2302.14290
+- 代码/Code: None
+
+**Efficient and Explicit Modelling of Image Hierarchies for Image Restoration**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.00748
+- 代码/Code: https://github.com/ofsoundof/grl-image-restoration
+
+**Quality-aware Pre-trained Models for Blind Image Quality Assessment**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.00521
+- 代码/Code: None
+
+**Renderable Neural Radiance Map for Visual Navigation**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.00304
+- 代码/Code: None
+
+**Single Image Backdoor Inversion via Robust Smoothed Classifiers**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.00215
+- 代码/Code: https://github.com/locuslab/smoothinv
+
+**Towards Generalisable Video Moment Retrieval: Visual-Dynamic Injection to Image-Text Pre-Training**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.00040
 - 代码/Code: None
