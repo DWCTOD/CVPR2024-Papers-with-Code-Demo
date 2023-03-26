@@ -168,6 +168,11 @@ CVPR 2023 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2303.00462
 - 代码/Code: https://github.com/toytiny/cmflow
 
+**AMIGO: Sparse Multi-Modal Graph Transformer with Shared-Context Processing for Representation Learning of Giga-pixel Images**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.00865
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="ContrastiveLearning"></a> 
@@ -256,6 +261,21 @@ CVPR 2023 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: https://arxiv.org/abs/2301.05709
 - 代码/Code: None
 
+**Delivering Arbitrary-Modal Semantic Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.01480
+- 代码/Code: None
+
+**Conflict-Based Cross-View Consistency for Semi-Supervised Semantic Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.01276
+- 代码/Code: https://github.com/xiaoyao3302/CCVC
+
+**Token Contrast for Weakly-Supervised Semantic Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.01267
+- 代码/Code: https://github.com/rulixiang/toco 
+
 [返回目录/back](#Contents)
 
 
@@ -304,7 +324,12 @@ CVPR 2023 论文/paper交流群已成立！已经收录的同学，可以添加�
 **ProxyFormer: Proxy Alignment Assisted Point Cloud Completion with Missing Part Sensitive Transformer**
 
 - 论文/Paper: http://arxiv.org/pdf/2302.14435
-- 代码/Code: https://github.com/I2-Multimedia-Lab/ProxyFormer.
+- 代码/Code: https://github.com/I2-Multimedia-Lab/ProxyFormer
+
+**Visual Atoms: Pre-training Vision Transformers with Sinusoidal Waves**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.01112
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -316,6 +341,19 @@ CVPR 2023 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: https://arxiv.org/abs/2211.13202
 - 代码/Code:https://github.com/noahzn/Lite-Mono
+
+[返回目录/back](#Contents)
+
+
+
+<a name="SuperResolution"></a>
+
+## 超分辨率/Super Resolution
+
+**OPE-SR: Orthogonal Position Encoding for Designing a Parameter-free Upsampling Module in Arbitrary-scale Image Super-Resolution**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.01091
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -417,6 +455,11 @@ CVPR 2023 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: https://arxiv.org/abs/2301.05709
 - 代码/Code: None
 
+**Neural Intrinsic Embedding for Non-rigid Point Cloud Matching**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.01038
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 
@@ -493,4 +536,44 @@ CVPR 2023 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Towards Generalisable Video Moment Retrieval: Visual-Dynamic Injection to Image-Text Pre-Training**
 
 - 论文/Paper: http://arxiv.org/pdf/2303.00040
+- 代码/Code: None
+
+**Zero-Shot Text-to-Parameter Translation for Game Character Auto-Creation**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.01311
+- 代码/Code: None
+
+**MixPHM: Redundancy-Aware Parameter-Efficient Tuning for Low-Resource Visual Question Answering**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.01239
+- 代码/Code: https://github.com/jingjing12110/MixPHM
+
+**Disentangling Orthogonal Planes for Indoor Panoramic Room Layout Estimation with Cross-Scale Distortion Awareness**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.00971
+- 代码/Code: https://github.com/zhijieshen-bjtu/dopnet
+
+**Neuro-Modulated Hebbian Learning for Fully Test-Time Adaptation**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.00914
+- 代码/Code: None
+
+**Towards Trustable Skin Cancer Diagnosis via Rewriting Model's Decision**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.00885
+- 代码/Code: None
+
+**Geometric Visual Similarity Learning in 3D Medical Image Self-supervised Pre-training**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.00874
+- 代码/Code: https://github.com/yutinghe-list/gvsl
+
+**Demystifying Causal Features on Adversarial Examples and Causal Inoculation for Robust Network by Adversarial Instrumental Variable Regression**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.01052
+- 代码/Code: None
+
+**UniDexGrasp: Universal Robotic Dexterous Grasping via Learning Diverse Proposal Generation and Goal-Conditioned Policy**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.00938
 - 代码/Code: None
