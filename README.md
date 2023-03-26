@@ -68,6 +68,7 @@ CVPR 2023 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [人脸属性识别/Facial Attribute Recognition](#FacialAttributeRecognition)
 - [人脸编辑/Facial Editing](#FacialEditing)
 - [人脸重建/Face Reconstruction](#FaceReconstruction)
+- [Talking Face](#TalkingFace)
 - [换脸/Face Swap](#FaceSwap)
 - [人体姿态估计/Human Pose Estimation](#HumanPoseEstimation)
 - [6D位姿估计 /6D Pose Estimation](#6DPoseEstimation)
@@ -114,7 +115,10 @@ CVPR 2023 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## Backbone
 
+**Run, Don't Walk: Chasing Higher FLOPS for Faster Neural Networks**
 
+- 论文/Paper:https://arxiv.org/abs/2303.03667
+- 代码/Code:https://github.com/JierunChen/FasterNet
 
 [返回目录/back](#Contents)
 
@@ -247,6 +251,11 @@ CVPR 2023 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2303.00246
 - 代码/Code: None
 
+**Self-Supervised Image-to-Point Distillation via Semantically Tolerant Contrastive Loss**
+
+- 论文/Paper: https://arxiv.org/abs/2301.05709
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 
@@ -303,7 +312,10 @@ CVPR 2023 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## 深度估计/Depth Estimation
 
+**Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised Monocular Depth Estimation**
 
+- 论文/Paper: https://arxiv.org/abs/2211.13202
+- 代码/Code:https://github.com/noahzn/Lite-Mono
 
 [返回目录/back](#Contents)
 
@@ -339,6 +351,17 @@ CVPR 2023 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2302.14435
 - 代码/Code: https://github.com/I2-Multimedia-Lab/ProxyFormer.
+
+[返回目录/back](#Contents)
+
+<a name="TalkingFace"></a>
+
+## Talking Face
+
+**SadTalker： Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation**
+
+- 论文/Paper: https://arxiv.org/abs/2211.12194
+- 代码/Code: https://github.com/Winfredy/SadTalker
 
 [返回目录/back](#Contents)
 
@@ -389,9 +412,12 @@ CVPR 2023 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2303.00246
 - 代码/Code: None
 
-[返回目录/back](#Contents)
+**Self-Supervised Image-to-Point Distillation via Semantically Tolerant Contrastive Loss**
 
-## 
+- 论文/Paper: https://arxiv.org/abs/2301.05709
+- 代码/Code: None
+
+[返回目录/back](#Contents)
 
 
 
