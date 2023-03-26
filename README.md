@@ -101,9 +101,10 @@ CVPR 2023 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [自动驾驶 / Autonomous Driving](#AutonomousDriving)
 - [流体重建/Fluid Reconstruction](#FluidReconstruction)
 - [场景重建 / Scene Reconstruction](#SceneReconstruction)
+- [3D Reconstruction](#3DReconstruction)
 - [视频插帧/Frame Interpolation](#FrameInterpolation)
 - [视频超分 / Video Super-Resolution](#VideoSuper-Resolution)
-- [ 3D点云/3D point cloud](#3DPointCloud)
+- [3D点云/3D point cloud](#3DPointCloud)
 - [标签噪声 / Label-Noise](#Label-Noise)
 - [对抗样本/Adversarial Examples](#AdversarialExamples)
 - [其他/Other](#Other)
@@ -126,7 +127,10 @@ CVPR 2023 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## 数据集/Dataset
 
+**Spring: A High-Resolution High-Detail Dataset and Benchmark for Scene Flow, Optical Flow and Stereo**
 
+- 论文/Paper: http://arxiv.org/pdf/2303.01943
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -203,7 +207,10 @@ CVPR 2023 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## 目标检测/Object Detection
 
+**Towards Domain Generalization for Multi-view 3D Object Detection in Bird-Eye-View**
 
+- 论文/Paper: http://arxiv.org/pdf/2303.01686
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -403,6 +410,17 @@ CVPR 2023 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="GAN"></a>
+
+# GAN
+
+**Improving GAN Training via Feature Space Shrinkage**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.01559
+- 代码/Code: https://github.com/WentianZhang-ML/AdaptiveMix
+
+[返回目录/back](#Contents)
+
 <a name="AgeEstimation"></a>
 
 # 人脸年龄估计/Age Estimation
@@ -427,6 +445,22 @@ CVPR 2023 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2302.14348
 - 代码/Code: https://github.com/jyunlee/Im2Hands
+
+[返回目录/back](#Contents)
+
+<a name="3DReconstruction"></a>
+
+## 3D Reconstruction
+
+**Unsupervised 3D Shape Reconstruction by Part Retrieval and Assembly**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.01999
+- 代码/Code: None
+
+**MobileBrick: Building LEGO for 3D Reconstruction on Mobile Devices**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.01932
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -458,6 +492,16 @@ CVPR 2023 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Neural Intrinsic Embedding for Non-rigid Point Cloud Matching**
 
 - 论文/Paper: http://arxiv.org/pdf/2303.01038
+- 代码/Code: None
+
+**ACL-SPC: Adaptive Closed-Loop system for Self-Supervised Point Cloud Completion**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.01979
+- 代码/Code: https://github.com/Sangminhong/ACL-SPC_PyTorch
+
+**PointCert: Point Cloud Classification with Deterministic Certified Robustness Guarantees**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.01959
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -577,3 +621,60 @@ CVPR 2023 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2303.00938
 - 代码/Code: None
+
+**Prompt, Generate, then Cache: Cascade of Foundation Models makes Strong Few-shot Learners**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.02151
+- 代码/Code: https://github.com/ZrrSkywalker/CaFo.
+
+**Zero-shot Object Counting**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.02001
+- 代码/Code: https://github.com/cvlab-stonybrook/zero-shot-counting
+
+**EcoTTA: Memory-Efficient Continual Test-time Adaptation via Self-distilled Regularization**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.01904
+- 代码/Code: None
+
+**Prompting Large Language Models with Answer Heuristics for Knowledge-based Visual Question Answering**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.01903
+- 代码/Code: https://github.com/MILVLG/prophet
+
+**Intrinsic Physical Concepts Discovery with Object-Centric Predictive Models**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.01869
+- 代码/Code: None
+
+**Visual Exemplar Driven Task-Prompting for Unified Perception in Autonomous Driving**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.01788
+- 代码/Code: None
+
+**Diverse 3D Hand Gesture Prediction from Body Dynamics by Bilateral Hand Disentanglement**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.01765
+- 代码/Code: None
+
+**Learning Common Rationale to Improve Self-Supervised Representation for Fine-Grained Visual Recognition Problems**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.01669
+- 代码/Code: None
+
+**Hierarchical discriminative learning improves visual representations of biomedical microscopy**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.01605
+- 代码/Code: None
+
+**A Meta-Learning Approach to Predicting Performance and Data Requirements**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.01598
+- 代码/Code: None
+
+**DejaVu: Conditional Regenerative Learning to Enhance Dense Prediction**
+
+- 论文/Paper: http://arxiv.org/pdf/2303.01573
+- 代码/Code: None
+
+[返回目录/back](#Contents)
