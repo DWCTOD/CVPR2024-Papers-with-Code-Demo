@@ -183,6 +183,11 @@ CVPR 2023 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2303.10895
 - 代码/Code: https://github.com/mediabrain-sjtu/led
 
+**Conditional Image-to-Video Generation with Latent Flow Diffusion Models**
+
+- 论文/Paper: https://arxiv.org/pdf/2303.13744.pdf
+- 代码/Code: https://github.com/nihaomiao/CVPR23_LFDM
+
 [返回目录/back](#Contents)
 
 <a name="NAS"></a> 
@@ -498,6 +503,11 @@ CVPR 2023 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2303.12621
 - 代码/Code: None
+
+**Consistent-Teacher: Towards Reducing Inconsistent Pseudo-targets in Semi-supervised Object Detection**
+
+- 论文/Paper: https://arxiv.org/abs/2209.01589
+- 代码/Code: https://github.com/Adamdad/ConsistentTeacher
 
 [返回目录/back](#Contents)
 
@@ -968,6 +978,11 @@ CVPR 2023 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2303.06885
 - 代码/Code: None
+
+**A Hierarchical Representation Network for Accurate and Detailed Face Reconstruction from In-The-Wild Images**
+
+- 论文/Paper: https://arxiv.org/abs/2302.14434
+- 代码/Code: https://younglbw.github.io/HRN-homepage/
 
 [返回目录/back](#Contents)
 
@@ -2179,5 +2194,10 @@ CVPR 2023 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2303.12337
 - 代码/Code: None
+
+**Beyond Appearance: a Semantic Controllable Self-Supervised Learning Framework for Human-Centric Visual Tasks**
+
+- 论文/Paper: https://arxiv.org/abs/2303.17602
+- 代码/Code: https://github.com/tinyvision/SOLIDER
 
 [返回目录/back](#Contents)
