@@ -134,7 +134,20 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 # Diffusion Model
 
+**Balancing Act: Distribution-Guided Debiasing in Diffusion Models**
 
+- 论文/Paper: http://arxiv.org/pdf/2402.18206
+- 代码/Code: None
+
+**DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models**
+
+- 论文/Paper: http://arxiv.org/pdf/2402.19481
+- 代码/Code: https://github.com/mit-han-lab/distrifuser
+
+**DiffAssemble: A Unified Graph-Diffusion Model for 2D and 3D Reassembly**
+
+- 论文/Paper: http://arxiv.org/pdf/2402.19302
+- 代码/Code: https://github.com/iit-pavis/diffassemble
 
 [返回目录/back](#Contents)
 
@@ -166,7 +179,16 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## 多模态 / Multimodal
 
+**MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception**
 
+- 论文/Paper: https://arxiv.org/abs/2312.07472
+- 代码/Code: https://github.com/IranQin/MP5
+- 主页/Website：https://iranqin.github.io/MP5.github.io/
+
+**Polos: Multimodal Metric Learning from Human Feedback for Image Captioning**
+
+- 论文/Paper: http://arxiv.org/pdf/2402.18091
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -198,7 +220,10 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## 目标检测/Object Detection
 
+**UniMODE: Unified Monocular 3D Object Detection**
 
+- 论文/Paper: http://arxiv.org/pdf/2402.18573
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -230,11 +255,12 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## 语义分割/Segmentation
 
+**PEM: Prototype-based Efficient MaskFormer for Image Segmentation**
 
+- 论文/Paper: http://arxiv.org/pdf/2402.19422
+- 代码/Code: https://github.com/niccolocavagnero/pem
 
 [返回目录/back](#Contents)
-
-
 
 <a name="WSSS"></a>
 
@@ -246,9 +272,12 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 <a name="MedicalImageSegmentation"></a>
 
-# 医学图像分割/Medical Image Segmentation
+# 医学图像/Medical Image
 
+**Modality-Agnostic Structural Image Representation Learning for Deformable Multi-Modality Medical Image Registration**
 
+- 论文/Paper: http://arxiv.org/pdf/2402.18933
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -296,7 +325,20 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## 超分辨率/Super Resolution
 
+**SeD: Semantic-Aware Discriminator for Image Super-Resolution**
 
+- 论文/Paper: http://arxiv.org/pdf/2402.19387
+- 代码/Code: None
+
+**Training Generative Image Super-Resolution Models by Wavelet-Domain Losses Enables Better Control of Artifacts**
+
+- 论文/Paper: http://arxiv.org/pdf/2402.19215
+- 代码/Code: https://github.com/mandalinadagi/wgsr
+
+**CAMixerSR: Only Details Need More "Attention"**
+
+- 论文/Paper: http://arxiv.org/pdf/2402.19289
+- 代码/Code: https://github.com/icandle/camixersr
 
 [返回目录/back](#Contents)
 
@@ -344,7 +386,10 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 # 人脸活体检测/Face Anti-Spoofing
 
+**Suppress and Rebalance: Towards Generalized Multi-Modal Face Anti-Spoofing**
 
+- 论文/Paper: http://arxiv.org/pdf/2402.19298
+- 代码/Code: https://github.com/omggggg/mmdg
 
 [返回目录/back](#Contents)
 
@@ -454,10 +499,7 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## 3D点云/3D point cloud
 
-**Point2CAD: Reverse Engineering CAD Models from 3D Point Clouds**
 
-- 论文/Paper: https://struco3d.github.io/cvpr2023/papers/11.pdf
-- 代码/Code: https://github.com/YujiaLiu76/point2cad
 
 [返回目录/back](#Contents)
 
@@ -477,6 +519,148 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: https://arxiv.org/abs/2307.00040
 - 代码/Code: https://github.com/Wangt-CN/DisCo
+
+
+
+**Gradient Reweighting: Towards Imbalanced Class-Incremental Learning**
+
+- 论文/Paper: http://arxiv.org/pdf/2402.18528
+- 代码/Code: None
+
+**TAMM: TriAdapter Multi-Modal Learning for 3D Shape Understanding**
+
+- 论文/Paper: http://arxiv.org/pdf/2402.18490
+- 代码/Code: None
+
+**Attention-Propagation Network for Egocentric Heatmap to 3D Pose Lifting**
+
+- 论文/Paper: http://arxiv.org/pdf/2402.18330
+- 代码/Code: https://github.com/tho-kn/egotap
+
+**Attentive Illumination Decomposition Model for Multi-Illuminant White Balancing**
+
+- 论文/Paper: http://arxiv.org/pdf/2402.18277
+- 代码/Code: None
+
+**Misalignment-Robust Frequency Distribution Loss for Image Transformation**
+
+- 论文/Paper: http://arxiv.org/pdf/2402.18192
+- 代码/Code: https://github.com/eezkni/FDL
+
+**3DSFLabelling: Boosting 3D Scene Flow Estimation by Pseudo Auto-labelling**
+
+- 论文/Paper: http://arxiv.org/pdf/2402.18146
+- 代码/Code: https://github.com/jiangchaokang/3dsflabelling
+
+**OccTransformer: Improving BEVFormer for 3D camera-only occupancy prediction**
+
+- 论文/Paper: http://arxiv.org/pdf/2402.18140
+- 代码/Code: None
+
+**UniVS: Unified and Universal Video Segmentation with Prompts as Queries**
+
+- 论文/Paper: http://arxiv.org/pdf/2402.18115
+- 代码/Code: https://github.com/minghanli/univs
+
+**Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis**
+
+- 论文/Paper: http://arxiv.org/pdf/2402.18078
+- 代码/Code: https://github.com/YanzuoLu/CFLD
+
+**Boosting Neural Representations for Videos with a Conditional Decoder**
+
+- 论文/Paper: http://arxiv.org/pdf/2402.18152
+- 代码/Code: None
+
+**Classes Are Not Equal: An Empirical Study on Image Recognition Fairness**
+
+- 论文/Paper: http://arxiv.org/pdf/2402.18133
+- 代码/Code: None
+
+**QN-Mixer: A Quasi-Newton MLP-Mixer Model for Sparse-View CT Reconstruction**
+
+- 论文/Paper: http://arxiv.org/pdf/2402.17951
+- 代码/Code: None
+
+**Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers**
+
+- 论文/Paper: http://arxiv.org/pdf/2402.19479
+- 代码/Code: None
+
+**SeMoLi: What Moves Together Belongs Together**
+
+- 论文/Paper: http://arxiv.org/pdf/2402.19463
+- 代码/Code: None
+
+**Generalizable Whole Slide Image Classification with Fine-Grained Visual-Semantic Interaction**
+
+- 论文/Paper: http://arxiv.org/pdf/2402.19326
+- 代码/Code: None
+
+**CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition**
+
+- 论文/Paper: http://arxiv.org/pdf/2402.19231
+- 代码/Code: https://github.com/lu-feng/cricavpr
+
+**MemoNav: Working Memory Model for Visual Navigation**
+
+- 论文/Paper: http://arxiv.org/pdf/2402.19161
+- 代码/Code: None
+
+**VideoMAC: Video Masked Autoencoders Meet ConvNets**
+
+- 论文/Paper: http://arxiv.org/pdf/2402.19082
+- 代码/Code: https://github.com/nust-machine-intelligence-laboratory/videomac
+
+**Theoretically Achieving Continuous Representation of Oriented Bounding Boxes**
+
+- 论文/Paper: http://arxiv.org/pdf/2402.18975
+- 代码/Code: https://github.com/Jittor/JDet
+
+**OHTA: One-shot Hand Avatar via Data-driven Implicit Priors**
+
+- 论文/Paper: http://arxiv.org/pdf/2402.18969
+- 代码/Code: None
+
+**WWW: A Unified Framework for Explaining What, Where and Why of Neural Networks by Interpretation of Neuron Concepts**
+
+- 论文/Paper: http://arxiv.org/pdf/2402.18956
+- 代码/Code: None
+
+**Spectral Meets Spatial: Harmonising 3D Shape Matching and Interpolation**
+
+- 论文/Paper: http://arxiv.org/pdf/2402.18920
+- 代码/Code: None
+
+**SwitchLight: Co-design of Physics-driven Architecture and Pre-training Framework for Human Portrait Relighting**
+
+- 论文/Paper: http://arxiv.org/pdf/2402.18848
+- 代码/Code: None
+
+**ViewFusion: Towards Multi-View Consistency via Interpolated Denoising**
+
+- 论文/Paper: http://arxiv.org/pdf/2402.18842
+- 代码/Code: None
+
+**OpticalDR: A Deep Optical Imaging Model for Privacy-Protective Depression Recognition**
+
+- 论文/Paper: http://arxiv.org/pdf/2402.18786
+- 代码/Code: None
+
+**NARUTO: Neural Active Reconstruction from Uncertain Target Observations**
+
+- 论文/Paper: http://arxiv.org/pdf/2402.18771
+- 代码/Code: None
+
+**Towards Generalizable Tumor Synthesis**
+
+- 论文/Paper: http://arxiv.org/pdf/2402.19470
+- 代码/Code: None
+
+**Rethinking Multi-domain Generalization with A General Learning Objective**
+
+- 论文/Paper: http://arxiv.org/pdf/2402.18853
+- 代码/Code: None
 
 
 
