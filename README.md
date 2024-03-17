@@ -41,10 +41,11 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Backbone](#Backbone)
 - [数据集/Dataset](#Dataset)
 - [Diffusion Model](#DiffusionModel)
+- [Text-to-Image](#T2I)
 - [NAS](#NAS)
 - [NeRF](#NeRF)
 - [Knowledge Distillation](#KnowledgeDistillation)
-- [多模态 / Multimodal ](#Multimodal )
+- [多模态 / Multimodal ](#Multimodal)
 - [对比学习/Contrastive Learning](#ContrastiveLearning)
 - [图神经网络 / Graph Neural Networks](#GNN)
 - [胶囊网络 / Capsule Network](#CapsuleNetwork)
@@ -69,8 +70,7 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [人脸重建/Face Reconstruction](#FaceReconstruction)
 - [Talking Face](#TalkingFace)
 - [换脸/Face Swap](#FaceSwap)
-- [人体姿态估计/Human Pose Estimation](#HumanPoseEstimation)
-- [6D位姿估计 /6D Pose Estimation](#6DPoseEstimation)
+- [姿态估计/Pose Estimation](#HumanPoseEstimation)
 - [手势姿态估计（重建）/Hand Pose Estimation( Hand Mesh Recovery)](#HandPoseEstimation)
 - [视频动作检测/Video Action Detection](#VideoActionDetection)
 - [手语翻译/Sign Language Translation](#SignLanguageTranslation)
@@ -94,6 +94,7 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [图像匹配/Image Matching](#ImageMatching)
 - [图像融合/Image Blending](#ImageBlending)
 - [图像去雾/Image Dehazing](#ImageDehazing)
+- [图像去模糊/Image Deblur](#ImageDeblur)
 - [图像压缩/Image Compression](#ImageCompression)
 - [反光去除/Reflection Removal](#ReflectionRemoval)
 - [车道线检测/Lane Detection](#LaneDetection)
@@ -124,7 +125,10 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## 数据集/Dataset
 
+**HoloVIC: Large-scale Dataset and Benchmark for Multi-Sensor Holographic Intersection and Vehicle-Infrastructure Cooperative**
 
+- 论文/Paper: http://arxiv.org/pdf/2403.02640
+- 代码/Code: None
 
 
 
@@ -149,6 +153,42 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2402.19302
 - 代码/Code: https://github.com/iit-pavis/diffassemble
 
+**Diff-Plugin: Revitalizing Details for Diffusion-based Low-level Tasks**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.00644
+- 代码/Code: None
+
+**Few-shot Learner Parameterization by Diffusion Time-steps**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.02649
+- 代码/Code: https://github.com/yue-zhongqi/tif
+
+**MedM2G: Unifying Medical Multi-Modal Generation via Cross-Guided Diffusion with Visual Invariant**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.04290
+- 代码/Code: None
+
+[返回目录/back](#Contents)
+
+<a name="T2I"></a> 
+
+## Text-to-Image
+
+**RealCustom: Narrowing Real Text Word for Real-Time Open-Domain Text-to-Image Customization**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.00483
+- 代码/Code: None
+
+**NoiseCollage: A Layout-Aware Text-to-Image Diffusion Model Based on Noise Cropping and Merging**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.03485
+- 代码/Code: https://github.com/univ-esuty/noisecollage
+
+**Discriminative Probing and Tuning for Text-to-Image Generation**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.04321
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="NAS"></a> 
@@ -163,13 +203,21 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 # NeRF
 
+**GSNeRF: Generalizable Semantic Neural Radiance Fields with Enhanced 3D Scene Understanding**
 
+- 论文/Paper: http://arxiv.org/pdf/2403.03608
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
 <a name="KnowledgeDistillation"></a> 
 
 ## Knowledge Distillation
+
+**PromptKD: Unsupervised Prompt Distillation for Vision-Language Models**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.02781
+- 代码/Code: https://github.com/zhengli97/PromptKD
 
 
 
@@ -188,6 +236,11 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Polos: Multimodal Metric Learning from Human Feedback for Image Captioning**
 
 - 论文/Paper: http://arxiv.org/pdf/2402.18091
+- 代码/Code: None
+
+**MADTP: Multimodal Alignment-Guided Dynamic Token Pruning for Accelerating Vision-Language Transformer**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.02991
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -225,6 +278,11 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2402.18573
 - 代码/Code: None
 
+**CN-RMA: Combined Network with Ray Marching Aggregation for 3D Indoors Object Detection from Multi-view Images**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.04198
+- 代码/Code: https://github.com/SerCharles/CN-RMA.
+
 [返回目录/back](#Contents)
 
 
@@ -233,7 +291,15 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 # 目标跟踪/Object Tracking
 
+**DeconfuseTrack:Dealing with Confusion for Multi-Object Tracking**
 
+- 论文/Paper: http://arxiv.org/pdf/2403.02767
+- 代码/Code: None
+
+**Delving into the Trajectory Long-tail Distribution for Muti-object Tracking**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.04700
+- 代码/Code: https://github.com/chen-si-jia/Trajectory-Long-tail-Distribution-for-MOT
 
 [返回目录/back](#Contents)
 
@@ -259,6 +325,7 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2402.19422
 - 代码/Code: https://github.com/niccolocavagnero/pem
+- 
 
 [返回目录/back](#Contents)
 
@@ -285,7 +352,10 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 # 视频目标分割/Video Object Segmentation
 
+**Depth-aware Test-Time Training for Zero-shot Video Object Segmentation**
 
+- 论文/Paper: http://arxiv.org/pdf/2403.04258
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -317,7 +387,10 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 # 图像、视频检索 / Image Retrieval/Video retrieval
 
+**Dual Pose-invariant Embeddings: Learning Category and Object-specific Discriminative Representations for Recognition and Retrieval**
 
+- 论文/Paper: http://arxiv.org/pdf/2403.00272
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -340,6 +413,11 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2402.19289
 - 代码/Code: https://github.com/icandle/camixersr
 
+**Low-Res Leads the Way: Improving Generalization for Super-Resolution by Self-Supervised Learning**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.02601
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="ImageDenoising"></a>
@@ -354,7 +432,10 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 # 图像编辑/Image Editing
 
+**Doubly Abductive Counterfactual Inference for Text-based Image Editing**
 
+- 论文/Paper: http://arxiv.org/pdf/2403.02981
+- 代码/Code: https://github.com/xuesong39/DAC
 
 [返回目录/back](#Contents)
 
@@ -365,6 +446,28 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 
 [返回目录/back](#Contents)
+
+<a name="ImageDeblur"></a>
+
+## 图像去模糊/Image Deblur
+
+**A Unified Framework for Microscopy Defocus Deblur with Multi-Pyramid Transformer and Contrastive Learning**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.02611
+- 代码/Code: https://github.com/PieceZhang/MPT-CataBlur
+
+[返回目录/back](#Contents)
+
+<a name="AutonomousDriving"></a>
+
+## 自动驾驶 / Autonomous Driving
+
+**Abductive Ego-View Accident Video Understanding for Safe Driving Perception**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.00436
+- 代码/Code: None
+
+返回目录/back
 
 <a name="FaceRecognition"></a>
 
@@ -431,7 +534,7 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 <a name="TalkingFace"></a>
 
-## Talking Face
+# Talking Face
 
 
 
@@ -439,9 +542,17 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 <a name="HumanPoseEstimation"></a>
 
-# 人体姿态估计/Human Pose Estimation
+# 姿态估计/Pose Estimation
 
+**FAR: Flexible, Accurate and Robust 6DoF Relative Camera Pose Estimation**
 
+- 论文/Paper: http://arxiv.org/pdf/2403.03221
+- 代码/Code: None
+
+**Single-to-Dual-View Adaptation for Egocentric 3D Hand Pose Estimation**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.04381
+- 代码/Code: https://github.com/MickeyLLG/S2DHand
 
 [返回目录/back](#Contents)
 
@@ -499,7 +610,15 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## 3D点云/3D point cloud
 
+**Rethinking Few-shot 3D Point Cloud Semantic Segmentation**
 
+- 论文/Paper: http://arxiv.org/pdf/2403.00592
+- 代码/Code: https://github.com/ZhaochongAn/COSeg
+
+**Extend Your Own Correspondences: Unsupervised Distant Point Cloud Registration by Progressive Distance Extension**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.03532
+- 代码/Code: https://github.com/liuquan98/eyoc
 
 [返回目录/back](#Contents)
 
@@ -519,8 +638,6 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: https://arxiv.org/abs/2307.00040
 - 代码/Code: https://github.com/Wangt-CN/DisCo
-
-
 
 **Gradient Reweighting: Towards Imbalanced Class-Incremental Learning**
 
@@ -662,6 +779,162 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2402.18853
 - 代码/Code: None
 
+**Rethinking Inductive Biases for Surface Normal Estimation**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.00712
+- 代码/Code: https://github.com/baegwangbin/DSINE
+
+**SURE: SUrvey REcipes for building reliable and robust deep networks**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.00543
+- 代码/Code: https://github.com/YutingLi0606/SURE
+
+**Selective-Stereo: Adaptive Frequency Information Selection for Stereo Matching**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.00486
+- 代码/Code: https://github.com/Windsrain/Selective-Stereo.
+
+**Deformable One-shot Face Stylization via DINO Semantic Guidance**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.00459
+- 代码/Code: https://github.com/zichongc/DoesFS
+
+**CustomListener: Text-guided Responsive Interaction for User-friendly Listening Head Generation**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.00274
+- 代码/Code: None
+
+**NRDF: Neural Riemannian Distance Fields for Learning Articulated Pose Priors**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.03122
+- 代码/Code: None
+
+**Why Not Use Your Textbook? Knowledge-Enhanced Procedure Planning of Instructional Videos**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.02782
+- 代码/Code: None
+
+**HUNTER: Unsupervised Human-centric 3D Detection via Transferring Knowledge from Synthetic Instances to Real Scenes**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.02769
+- 代码/Code: None
+
+**Learning Group Activity Features Through Person Attribute Prediction**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.02753
+- 代码/Code: https://github.com/chihina/GAFL-CVPR2024.
+
+**Interactive Continual Learning: Fast and Slow Thinking**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.02628
+- 代码/Code: None
+
+**NRDF: Neural Riemannian Distance Fields for Learning Articulated Pose Priors**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.03122
+- 代码/Code: None
+
+**Why Not Use Your Textbook? Knowledge-Enhanced Procedure Planning of Instructional Videos**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.02782
+- 代码/Code: None
+
+**HUNTER: Unsupervised Human-centric 3D Detection via Transferring Knowledge from Synthetic Instances to Real Scenes**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.02769
+- 代码/Code: None
+
+**Learning Group Activity Features Through Person Attribute Prediction**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.02753
+- 代码/Code: https://github.com/chihina/GAFL-CVPR2024.
+
+**Interactive Continual Learning: Fast and Slow Thinking**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.02628
+- 代码/Code: None
+
+**Hierarchical Diffusion Policy for Kinematics-Aware Multi-Task Robotic Manipulation**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.03890
+- 代码/Code: None
+
+**DART: Implicit Doppler Tomography for Radar Novel View Synthesis**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.03896
+- 代码/Code: None
+
+**MeaCap: Memory-Augmented Zero-shot Image Captioning**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.03715
+- 代码/Code: https://github.com/joeyz0z/MeaCap
+
+**HMD-Poser: On-Device Real-time Human Motion Tracking from Scalable Sparse Observations**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.03561
+- 代码/Code: None
+
+**Continual Segmentation with Disentangled Objectness Learning and Class Recognition**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.03477
+- 代码/Code: https://github.com/jordangong/CoMasTRe
+
+**HDRFlow: Real-Time HDR Video Reconstruction with Large Motions**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.03447
+- 代码/Code: None
+
+**LEAD: Learning Decomposition for Source-free Universal Domain Adaptation**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.03421
+- 代码/Code: https://github.com/ispc-lab/lead
+
+**F$^3$Loc: Fusion and Filtering for Floorplan Localization**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.03370
+- 代码/Code: None
+
+**Enhancing Vision-Language Pre-training with Rich Supervisions**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.03346
+- 代码/Code: None
+
+**Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.04765
+- 代码/Code: None
+
+**Discriminative Sample-Guided and Parameter-Efficient Feature Space Adaptation for Cross-Domain Few-Shot Learning**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.04492
+- 代码/Code: https://github.com/rashindrie/dipa
+
+**Learning to Remove Wrinkled Transparent Film with Polarized Prior**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.04368
+- 代码/Code: https://github.com/jqtangust/filmremoval
+
+**LORS: Low-rank Residual Structure for Parameter-Efficient Network Stacking**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.04303
+- 代码/Code: None
+
+**Active Generalized Category Discovery**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.04272
+- 代码/Code: https://github.com/mashijie1028/activegcd
+
+**MAP: MAsk-Pruning for Source-Free Model Intellectual Property Protection**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.04149
+- 代码/Code: https://github.com/ispc-lab/map
+
+**A Study of Dropout-Induced Modality Bias on Robustness to Missing Video Frames for Audio-Visual Speech Recognition**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.04245
+- 代码/Code: https://github.com/dalision/modalbiasavsr
+
 
 
 [返回目录/back](#Contents)
+
