@@ -168,6 +168,11 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2403.04290
 - 代码/Code: None
 
+**DEADiff: An Efficient Stylization Diffusion Model with Disentangled Representations**
+
+- 论文/Paper: https://arxiv.org/abs/2403.06951
+- 代码/Code: https://github.com/Tianhao-Qi/DEADiff_code
+
 [返回目录/back](#Contents)
 
 <a name="T2I"></a> 
@@ -219,7 +224,10 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2403.02781
 - 代码/Code: https://github.com/zhengli97/PromptKD
 
+**Logit Standardization in Knowledge Distillation**
 
+- 论文/Paper: https://arxiv.org/abs/2403.01427
+- 代码/Code: https://github.com/sunshangquan/logit-standardization-KD
 
 [返回目录/back](#Contents)
 
@@ -281,7 +289,12 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 **CN-RMA: Combined Network with Ray Marching Aggregation for 3D Indoors Object Detection from Multi-view Images**
 
 - 论文/Paper: http://arxiv.org/pdf/2403.04198
-- 代码/Code: https://github.com/SerCharles/CN-RMA.
+- 代码/Code: https://github.com/SerCharles/CN-RMA
+
+**Memory-based Adapters for Online 3D Scene Perception**
+
+- 论文/Paper: https://arxiv.org/abs/2403.06974
+- 代码/Code:https://github.com/xuxw98/Online3D
 
 [返回目录/back](#Contents)
 
@@ -379,7 +392,10 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## 深度估计/Depth Estimation
 
+**Representations for Recognition and Retrieval**
 
+- 论文/Paper: https://arxiv.org/pdf/2403.07535.pdf
+- 代码/Code: https://github.com/Junda24/AFNet
 
 [返回目录/back](#Contents)
 
@@ -934,7 +950,10 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2403.04245
 - 代码/Code: https://github.com/dalision/modalbiasavsr
 
+**Seamless Human Motion Composition with Blended Positional Encodings**
 
+- 论文/Paper: https://arxiv.org/abs/2402.15509
+- 代码/Code:https://github.com/BarqueroGerman/FlowMDM
 
 [返回目录/back](#Contents)
 
