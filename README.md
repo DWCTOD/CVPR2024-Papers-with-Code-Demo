@@ -173,6 +173,11 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: https://arxiv.org/abs/2403.06951
 - 代码/Code: https://github.com/Tianhao-Qi/DEADiff_code
 
+**Face2Diffusion for Fast and Editable Face Personalization**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.05094
+- 代码/Code: https://github.com/mapooon/Face2Diffusion
+
 [返回目录/back](#Contents)
 
 <a name="T2I"></a> 
@@ -192,6 +197,11 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Discriminative Probing and Tuning for Text-to-Image Generation**
 
 - 论文/Paper: http://arxiv.org/pdf/2403.04321
+- 代码/Code: None
+
+**Towards Effective Usage of Human-Centric Priors in Diffusion Models for Text-based Human Image Generation**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.05239
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -229,6 +239,11 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: https://arxiv.org/abs/2403.01427
 - 代码/Code: https://github.com/sunshangquan/logit-standardization-KD
 
+**RadarDistill: Boosting Radar-based Object Detection Performance via Knowledge Distillation from LiDAR Features**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.05061
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="Multimodal"></a> 
@@ -250,6 +265,11 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2403.02991
 - 代码/Code: None
+
+**Learning to Rematch Mismatched Pairs for Robust Cross-Modal Retrieval**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.05105
+- 代码/Code: https://github.com/hhc1997/L2RM
 
 [返回目录/back](#Contents)
 
@@ -390,7 +410,10 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 # Visual Transformer
 
+**Rethinking Transformers Pre-training for Multi-Spectral Satellite Imagery**
 
+- 论文/Paper: http://arxiv.org/pdf/2403.05419
+- 代码/Code: https://github.com/techmn/satmae_pp
 
 [返回目录/back](#Contents)
 
@@ -413,6 +436,11 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2403.00272
 - 代码/Code: None
+
+**Learning to Rematch Mismatched Pairs for Robust Cross-Modal Retrieval**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.05105
+- 代码/Code: https://github.com/hhc1997/L2RM
 
 [返回目录/back](#Contents)
 
@@ -621,7 +649,15 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## 3D Reconstruction
 
+**UFORecon: Generalizable Sparse-View Surface Reconstruction from Arbitrary and UnFavOrable Data Sets**
 
+- 论文/Paper: http://arxiv.org/pdf/2403.05086
+- 代码/Code: https://github.com/Youngju-Na/UFORecon
+
+**DITTO: Dual and Integrated Latent Topologies for Implicit 3D Reconstruction**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.05005
+- 代码/Code: None
 
 
 
@@ -648,6 +684,11 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2403.03532
 - 代码/Code: https://github.com/liuquan98/eyoc
+
+**Hide in Thicket: Generating Imperceptible and Rational Adversarial Perturbations on 3D Point Clouds**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.05247
+- 代码/Code: https://github.com/TRLou/HiT-ADV
 
 [返回目录/back](#Contents)
 
@@ -972,6 +1013,11 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: https://arxiv.org/abs/2312.09168
 - 代码/Code:https://github.com/DiffusionLight/DiffusionLight
+
+**SplattingAvatar: Realistic Real-Time Human Avatars with Mesh-Embedded Gaussian Splatting**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.05087
+- 代码/Code: https://github.com/initialneil/SplattingAvatar
 
 [返回目录/back](#Contents)
 
