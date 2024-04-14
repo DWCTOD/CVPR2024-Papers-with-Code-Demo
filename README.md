@@ -178,6 +178,16 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2403.05094
 - 代码/Code: https://github.com/mapooon/Face2Diffusion
 
+**DEADiff: An Efficient Stylization Diffusion Model with Disentangled Representations**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.06951
+- 代码/Code: None
+
+**MACE: Mass Concept Erasure in Diffusion Models**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.06135
+- 代码/Code: https://github.com/Shilin-LU/MACE
+
 [返回目录/back](#Contents)
 
 <a name="T2I"></a> 
@@ -204,6 +214,11 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2403.05239
 - 代码/Code: None
 
+**Text2QR: Harmonizing Aesthetic Customization and Scanning Robustness for Text-Guided QR Code Generation**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.06452
+- 代码/Code: https://github.com/mulns/Text2QR
+
 [返回目录/back](#Contents)
 
 <a name="NAS"></a> 
@@ -221,6 +236,16 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 **GSNeRF: Generalizable Semantic Neural Radiance Fields with Enhanced 3D Scene Understanding**
 
 - 论文/Paper: http://arxiv.org/pdf/2403.03608
+- 代码/Code: None
+
+**DNGaussian: Optimizing Sparse-View 3D Gaussian Radiance Fields with Global-Local Depth Normalization**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.06912
+- 代码/Code: https://github.com/fictionarry/dngaussian
+
+**S-DyRF: Reference-Based Stylized Radiance Fields for Dynamic Scenes**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.06205
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -243,6 +268,11 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2403.05061
 - 代码/Code: None
+
+**$V_kD:$ Improving Knowledge Distillation using Orthogonal Projections**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.06213
+- 代码/Code: https://github.com/roymiles/vkd
 
 [返回目录/back](#Contents)
 
@@ -277,7 +307,10 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## Contrastive Learning
 
+**Style Blind Domain Generalized Semantic Segmentation via Covariance Alignment and Semantic Consistence Contrastive Learning**
 
+- 论文/Paper: http://arxiv.org/pdf/2403.06122
+- 代码/Code: https://github.com/root0yang/blindnet
 
 [返回目录/back](#Contents)
 
@@ -322,6 +355,16 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 代码/Code:https://github.com/xiuqhou/Salience-DETR
 
+**Enhancing 3D Object Detection with 2D Detection-Guided Query Anchors**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.06093
+- 代码/Code: https://github.com/nullmax-vision/QAF2D
+
+**SAFDNet: A Simple and Effective Network for Fully Sparse 3D Object Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.05817
+- 代码/Code: https://github.com/zhanggang001/hednet
+
 [返回目录/back](#Contents)
 
 
@@ -364,7 +407,16 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2402.19422
 - 代码/Code: https://github.com/niccolocavagnero/pem
-- 
+
+**Towards the Uncharted: Density-Descending Feature Perturbation for Semi-supervised Semantic Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.06462
+- 代码/Code: https://github.com/Gavinwxy/DDFP
+
+**Text-Guided Variational Image Generation for Industrial Anomaly Detection and Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.06247
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -470,9 +522,20 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="ImageRestoration"></a>
+
+## 图像复原/Image Restoration
+
+**Boosting Image Restoration via Priors from Pre-trained Models**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.06793
+- 代码/Code: None
+
+[返回目录/back](#Contents)
+
 <a name="ImageDenoising"></a>
 
-## 图像去噪/Image Denoising - 1 篇 
+## 图像去噪/Image Denoising
 
 
 
@@ -659,7 +722,15 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2403.05005
 - 代码/Code: None
 
+**Memory-based Adapters for Online 3D Scene Perception**
 
+- 论文/Paper: http://arxiv.org/pdf/2403.06974
+- 代码/Code: None
+
+**Bayesian Diffusion Models for 3D Shape Reconstruction**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.06973
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -696,7 +767,15 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 # Anomaly Detection
 
+**Toward Generalist Anomaly Detection via In-context Residual Learning with Few-shot Sample Prompts**
 
+- 论文/Paper: http://arxiv.org/pdf/2403.06495
+- 代码/Code: https://github.com/mala-lab/inctrl
+
+**RealNet: A Feature Selection Network with Realistic Synthetic Anomaly for Anomaly Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.05897
+- 代码/Code: https://github.com/cnulab/realnet
 
 [返回目录/back](#Contents)
 
@@ -1018,6 +1097,76 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2403.05087
 - 代码/Code: https://github.com/initialneil/SplattingAvatar
+
+**Split to Merge: Unifying Separated Modalities for Unsupervised Domain Adaptation**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.06946
+- 代码/Code: https://github.com/tl-uestc/unimos
+
+**Real-Time Simulated Avatar from Head-Mounted Sensors**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.06862
+- 代码/Code: None
+
+**DiaLoc: An Iterative Approach to Embodied Dialog Localization**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.06846
+- 代码/Code: None
+
+**FaceChain-SuDe: Building Derived Class to Inherit Category Attributes for One-shot Subject-Driven Generation**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.06775
+- 代码/Code: https://github.com/modelscope/facechain
+
+**EarthLoc: Astronaut Photography Localization by Indexing Earth from Space**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.06758
+- 代码/Code: https://github.com/gmberton/earthloc
+
+**CAM Back Again: Large Kernel CNNs from a Weakly Supervised Object Localization Perspective**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.06676
+- 代码/Code: https://github.com/snskysk/cam-back-again
+
+**Distributionally Generative Augmentation for Fair Facial Attribute Classification**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.06606
+- 代码/Code: https://github.com/heqianpei/diga
+
+**Exploiting Style Latent Flows for Generalizing Deepfake Detection Video Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.06592
+- 代码/Code: None
+
+**MoST: Motion Style Transformer between Diverse Action Contents**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.06225
+- 代码/Code: https://github.com/Boeun-Kim/MoST.
+
+**Coherent Temporal Synthesis for Incremental Action Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.06102
+- 代码/Code: None
+
+**Is Vanilla MLP in Neural Radiance Field Enough for Few-shot View Synthesis?**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.06092
+- 代码/Code: None
+
+**LTGC: Long-tail Recognition via Leveraging LLMs-driven Generated Content**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.05854
+- 代码/Code: None
+
+**PeerAiD: Improving Adversarial Distillation from a Specialized Peer Tutor**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.06668
+- 代码/Code: None
+
+**SNIFFER: Multimodal Large Language Model for Explainable Out-of-Context Misinformation Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.03170
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
