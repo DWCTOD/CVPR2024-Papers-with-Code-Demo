@@ -296,6 +296,12 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: https://arxiv.org/abs/2403.06974
 - 代码/Code:https://github.com/xuxw98/Online3D
 
+ **Salience DETR: Enhancing Detection Transformer with Hierarchical Salience Filtering Refinement**
+
+- 论文/Paper: https://arxiv.org/abs/2403.16131
+
+- 代码/Code:https://github.com/xiuqhou/Salience-DETR
+
 [返回目录/back](#Contents)
 
 
@@ -570,7 +576,14 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2403.04381
 - 代码/Code: https://github.com/MickeyLLG/S2DHand
 
+**Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation**
+
+- 论文/Paper: https://arxiv.org/pdf/2311.12028.pdf
+- 代码/Code: https://github.com/NationalGAILab/HoT
+
 [返回目录/back](#Contents)
+
+
 
 <a name="GAN"></a>
 
@@ -954,6 +967,11 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: https://arxiv.org/abs/2402.15509
 - 代码/Code:https://github.com/BarqueroGerman/FlowMDM
+
+**DiffusionLight: Light Probes for Free by Painting a Chrome Ball**
+
+- 论文/Paper: https://arxiv.org/abs/2312.09168
+- 代码/Code:https://github.com/DiffusionLight/DiffusionLight
 
 [返回目录/back](#Contents)
 
