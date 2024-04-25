@@ -130,7 +130,10 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2403.02640
 - 代码/Code: None
 
+**Traffic Scene Parsing through the TSP6K Dataset**
 
+- 论文/Paper: https://arxiv.org/pdf/2303.02835.pdf
+- 代码/Code: https://github.com/PengtaoJiang/TSP6K
 
 [返回目录/back](#Contents)
 
@@ -1167,6 +1170,11 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2403.03170
 - 代码/Code: None
+
+**Multi-Task Dense Prediction via Mixture of Low-Rank Experts**
+
+- 论文/Paper: https://arxiv.org/abs/2403.17749
+- 代码/Code: https://github.com/YuqiYang213/MLoRE
 
 [返回目录/back](#Contents)
 
