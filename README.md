@@ -191,6 +191,18 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2403.06135
 - 代码/Code: https://github.com/Shilin-LU/MACE
 
+**It's All About Your Sketch: Democratising Sketch Control in Diffusion Models**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.07234
+- 代码/Code: https://github.com/subhadeepkoley/demosketch2rgb
+
+**SemCity: Semantic Scene Generation with Triplane Diffusion**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.07773
+- 代码/Code: https://github.com/zoomin-lee/semcity
+
+
+
 [返回目录/back](#Contents)
 
 <a name="T2I"></a> 
@@ -221,6 +233,11 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2403.06452
 - 代码/Code: https://github.com/mulns/Text2QR
+
+**Text-to-Image Diffusion Models are Great Sketch-Photo Matchmakers**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.07214
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -303,6 +320,21 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2403.05105
 - 代码/Code: https://github.com/hhc1997/L2RM
+
+**MoPE-CLIP: Structured Pruning for Efficient Vision-Language Models with Module-wise Pruning Error Metric**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.07839
+- 代码/Code: None
+
+**Decomposing Disease Descriptions for Enhanced Pathology Detection: A Multi-Aspect Vision-Language Matching Framework**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.07636
+- 代码/Code: https://github.com/hieuphan33/mavl
+
+**Calibrating Multi-modal Representations: A Pursuit of Group Robustness without Annotations**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.07241
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -497,6 +529,11 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2403.05105
 - 代码/Code: https://github.com/hhc1997/L2RM
 
+**How to Handle Sketch-Abstraction in Sketch-Based Image Retrieval?**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.07203
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="SuperResolution"></a>
@@ -583,7 +620,12 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2403.00436
 - 代码/Code: None
 
-返回目录/back
+**Adaptive Fusion of Single-View and Multi-View Depth for Autonomous Driving**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.07535
+- 代码/Code: website:https://github.com/Junda24/AFNet/
+
+[返回目录/back](#Contents)
 
 <a name="FaceRecognition"></a>
 
@@ -1175,6 +1217,66 @@ CVPR 2024 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: https://arxiv.org/abs/2403.17749
 - 代码/Code: https://github.com/YuqiYang213/MLoRE
+
+**Beyond Text: Frozen Large Language Models in Visual Signal Comprehension**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.07874
+- 代码/Code: https://github.com/zh460045050/v2l-tokenizer
+
+**Dynamic Graph Representation with Knowledge-aware Attention for Histopathology Whole Slide Image Analysis**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.07719
+- 代码/Code: https://github.com/wonderlandxd/wikg
+
+**Robust Synthetic-to-Real Transfer for Stereo Matching**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.07705
+- 代码/Code: https://github.com/jiaw-z/dkt-stereo
+
+**CuVLER: Enhanced Unsupervised Object Discoveries through Exhaustive Self-Supervised Transformers**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.07700
+- 代码/Code: https://github.com/shahaf-arica/cuvler
+
+**Masked AutoDecoder is Effective Multi-Task Vision Generalist**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.07692
+- 代码/Code: https://github.com/hanqiu-hq/mad
+
+**PeLK: Parameter-efficient Large Kernel ConvNets with Peripheral Convolution**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.07589
+- 代码/Code: None
+
+**Unleashing Network Potentials for Semantic Scene Completion**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.07560
+- 代码/Code: https://github.com/fereenwong/ammnet
+
+**Open-World Semantic Segmentation Including Class Similarity**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.07532
+- 代码/Code: https://github.com/PRBonn/ContMAV
+
+**ViT-CoMer: Vision Transformer with Convolutional Multi-scale Feature Interaction for Dense Predictions**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.07392
+- 代码/Code: https://github.com/Traffic-X/ViT-CoMer
+
+**FSC: Few-point Shape Completion**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.07359
+- 代码/Code: None
+
+**Frequency Decoupling for Motion Magnification via Multi-Level Isomorphic Architecture**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.07347
+- 代码/Code: https://github.com/jiafei127/fd4mm
+
+**A Bayesian Approach to OOD Robustness in Image Classification**
+
+- 论文/Paper: http://arxiv.org/pdf/2403.07277
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
